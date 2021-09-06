@@ -1,0 +1,12 @@
+.imageOverly{
+position: relative;
+cursor: pointer;
+.title{
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    color: black;
+    background-color: white;
+    padding: 10px 30px;
+    }
+}
